@@ -86,3 +86,20 @@ Below are three possible outcomes when running the project.
 ### 💡 Takeaway
 `@Transactional` ensures **atomicity** —  
 > Either *both operations succeed* or *none at all.*
+
+⚙️ How to Run This Project
+1️⃣ Prerequisites
+
+Java 17+ installed
+
+Maven installed (or use Spring Boot CLI)
+
+Database: H2 (in-memory) or Oracle/MySQL (optional)
+
+2️⃣ Clone the Repository
+3️⃣ Configure Database:- Check application.properties
+4️⃣ Add Sample Data in Runner Class
+5️⃣ Run the Project
+From project root: mvn spring-boot:run
+6️⃣ Check Output
+Console will show the transfer messages
