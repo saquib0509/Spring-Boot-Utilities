@@ -49,21 +49,23 @@ Password: (leave blank)
 <img width="1078" height="593" alt="Screenshot 2025-10-29 210424" src="https://github.com/user-attachments/assets/834cde46-9197-47f7-960d-c742388ab189" />
 
 
-**🧩 Features**
+## 🧩 Features
 
--Store and retrieve data in an in-memory database
--Demonstrates use of @Entity, @Repository, and @Service
--Shows how JPA repositories simplify CRUD operations
--Automatically creates tables using spring.jpa.hibernate.ddl-auto=update
+- 🗃️ Store and retrieve data in an **in-memory H2 database**  
+- 💡 Demonstrates use of `@Entity`, `@Repository`, and `@Service`  
+- ⚙️ Shows how **JPA Repositories** simplify CRUD operations  
+- 🧱 Automatically creates tables using `spring.jpa.hibernate.ddl-auto=update`
+
 
 <img width="1098" height="628" alt="Screenshot 2025-10-29 000600" src="https://github.com/user-attachments/assets/90ff34a1-9c6b-4825-80c4-c1e196f3aef3" />
 
-**🛠️ Tech Stack**
+## 🛠️ Tech Stack
 
-Java 21
-Spring Boot 3.5.7
-Spring Data JPA
-H2 Database
-Lombok
-Maven
+**Java:** 21  
+**Spring Boot:** 3.5.7  
+**Spring Data JPA**  
+**H2 Database**  
+**Lombok**  
+**Maven**
+
 
